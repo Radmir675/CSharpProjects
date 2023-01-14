@@ -1,0 +1,6 @@
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Ball_Library\bin\Debug\Ball_Library.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Ball_Library\bin\Debug\Ball_Library.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Ball_Library\obj\Debug\Ball_Library.csproj.CoreCompileInputs.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Ball_Library\obj\Debug\Ball_Library.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Ball_Library\obj\Debug\Ball_Library.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Ball_Library\obj\Debug\Ball_Library.csproj.AssemblyReference.cache

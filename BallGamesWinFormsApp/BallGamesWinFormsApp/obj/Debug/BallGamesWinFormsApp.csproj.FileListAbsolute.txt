@@ -1,0 +1,13 @@
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\bin\Debug\BallGamesWinFormsApp.exe.config
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\bin\Debug\BallGamesWinFormsApp.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\bin\Debug\BallGamesWinFormsApp.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\obj\Debug\BallGamesWinFormsApp.Properties.Resources.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\obj\Debug\BallGamesWinFormsApp.csproj.GenerateResource.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\obj\Debug\BallGamesWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\obj\Debug\BallGamesWinFormsApp.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\obj\Debug\BallGamesWinFormsApp.pdb
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\obj\Debug\BallGamesWinFormsApp.MainForm.resources
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\obj\Debug\BallGamesWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\bin\Debug\Ball_Library.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\bin\Debug\Ball_Library.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\BallGamesWinFormsApp\obj\Debug\BallGamesWinFormsApp.csproj.CopyComplete

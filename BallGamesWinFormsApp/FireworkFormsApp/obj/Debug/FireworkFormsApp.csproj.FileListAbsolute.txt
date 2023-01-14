@@ -1,0 +1,13 @@
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\obj\Debug\FireworkFormsApp.csproj.AssemblyReference.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\obj\Debug\FireworkFormsApp.Properties.Resources.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\obj\Debug\FireworkFormsApp.csproj.GenerateResource.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\obj\Debug\FireworkFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\bin\Debug\FireworkFormsApp.exe.config
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\bin\Debug\FireworkFormsApp.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\bin\Debug\FireworkFormsApp.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\bin\Debug\Ball_Library.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\bin\Debug\Ball_Library.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\obj\Debug\FireworkFormsApp.csproj.CopyComplete
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\obj\Debug\FireworkFormsApp.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\obj\Debug\FireworkFormsApp.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\FireworkFormsApp\obj\Debug\FireworkFormsApp.Firework.resources

@@ -1,0 +1,13 @@
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\obj\Debug\Fruit_NinjaWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\obj\Debug\Fruit_NinjaWinFormsApp.Fruit_NinjaForm.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\obj\Debug\Fruit_NinjaWinFormsApp.Properties.Resources.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\obj\Debug\Fruit_NinjaWinFormsApp.csproj.GenerateResource.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\obj\Debug\Fruit_NinjaWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\bin\Debug\Fruit_NinjaWinFormsApp.exe.config
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\bin\Debug\Fruit_NinjaWinFormsApp.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\bin\Debug\Fruit_NinjaWinFormsApp.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\bin\Debug\Ball_Library.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\bin\Debug\Ball_Library.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\obj\Debug\Fruit_NinjaWinFormsApp.csproj.CopyComplete
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\obj\Debug\Fruit_NinjaWinFormsApp.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Fruit_NinjaWinFormsApp\obj\Debug\Fruit_NinjaWinFormsApp.pdb

@@ -1,0 +1,2 @@
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\BallGamesWinFormsApp\Class_Library\obj\Debug\Class_Library.csproj.AssemblyReference.cache
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\BallGamesWinFormsApp\Class_Library\obj\Debug\Class_Library.csproj.CoreCompileInputs.cache

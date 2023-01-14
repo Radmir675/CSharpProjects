@@ -1,0 +1,16 @@
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\bin\Debug\Angry_Birds.exe.config
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\bin\Debug\Angry_Birds.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\bin\Debug\Angry_Birds.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\obj\Debug\Angry_Birds.csproj.AssemblyReference.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\obj\Debug\Angry_Birds.Angry_birds_Form.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\obj\Debug\Angry_Birds.Properties.Resources.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\obj\Debug\Angry_Birds.csproj.GenerateResource.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\obj\Debug\Angry_Birds.csproj.CoreCompileInputs.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\obj\Debug\Angry_Birds.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\obj\Debug\Angry_Birds.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\bin\Debug\Ball_Library.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\bin\Debug\Ball_Library.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\obj\Debug\Angry_Birds.csproj.CopyComplete
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\bin\Debug\FireworkFormsApp.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\bin\Debug\FireworkFormsApp.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\Angry_Birds\bin\Debug\FireworkFormsApp.exe.config

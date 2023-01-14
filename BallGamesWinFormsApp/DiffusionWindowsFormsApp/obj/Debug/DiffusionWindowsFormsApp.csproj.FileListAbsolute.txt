@@ -1,0 +1,16 @@
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\bin\Debug\DiffusionWindowsFormsApp.exe.config
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\bin\Debug\DiffusionWindowsFormsApp.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\bin\Debug\DiffusionWindowsFormsApp.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\bin\Debug\Ball_Library.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\bin\Debug\Ball_Library.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\obj\Debug\DiffusionWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\obj\Debug\DiffusionWindowsFormsApp.DiffusionForm.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\obj\Debug\DiffusionWindowsFormsApp.Properties.Resources.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\obj\Debug\DiffusionWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\obj\Debug\DiffusionWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\obj\Debug\DiffusionWindowsFormsApp.csproj.CopyComplete
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\obj\Debug\DiffusionWindowsFormsApp.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\obj\Debug\DiffusionWindowsFormsApp.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\bin\Debug\Pool_tableWinForms.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\bin\Debug\Pool_tableWinForms.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\BallGamesWinFormsApp\DiffusionWindowsFormsApp\bin\Debug\Pool_tableWinForms.exe.config
