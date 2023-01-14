@@ -1,0 +1,10 @@
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\bin\Debug\WindowsFormsApp2048.exe.config
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\bin\Debug\WindowsFormsApp2048.exe
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\bin\Debug\WindowsFormsApp2048.pdb
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\obj\Debug\WindowsFormsApp2048.MainForm.resources
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\obj\Debug\WindowsFormsApp2048.Properties.Resources.resources
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\obj\Debug\WindowsFormsApp2048.Welcome.resources
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\obj\Debug\WindowsFormsApp2048.csproj.GenerateResource.cache
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\obj\Debug\WindowsFormsApp2048.csproj.CoreCompileInputs.cache
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\obj\Debug\WindowsFormsApp2048.exe
+C:\Users\tembr\Source\Repos\OnlineCourse10Stream\WindowsFormsApp2048\obj\Debug\WindowsFormsApp2048.pdb

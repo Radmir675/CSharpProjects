@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tembr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tembr\\.nuget\\packages"
+    ]
+  }
+}

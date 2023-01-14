@@ -1,0 +1,9 @@
+C:\Users\tembr\source\repos\OnlineCourse10Stream\GeniyIdiot\Progect_Library\bin\Debug\Progect_Library.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\GeniyIdiot\Progect_Library\bin\Debug\Progect_Library.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\GeniyIdiot\Progect_Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\GeniyIdiot\Progect_Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tembr\source\repos\OnlineCourse10Stream\GeniyIdiot\Progect_Library\obj\Debug\Progect_Library.csproj.AssemblyReference.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\GeniyIdiot\Progect_Library\obj\Debug\Progect_Library.csproj.CoreCompileInputs.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\GeniyIdiot\Progect_Library\obj\Debug\Progect_Library.csproj.CopyComplete
+C:\Users\tembr\source\repos\OnlineCourse10Stream\GeniyIdiot\Progect_Library\obj\Debug\Progect_Library.dll
+C:\Users\tembr\source\repos\OnlineCourse10Stream\GeniyIdiot\Progect_Library\obj\Debug\Progect_Library.pdb

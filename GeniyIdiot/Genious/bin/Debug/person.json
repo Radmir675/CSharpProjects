@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Радмир",
+    "CorrectAnswers": 0,
+    "Diagnosis": "кретин"
+  },
+  {
+    "Name": "Timur",
+    "CorrectAnswers": 1,
+    "Diagnosis": "дурак"
+  }
+]

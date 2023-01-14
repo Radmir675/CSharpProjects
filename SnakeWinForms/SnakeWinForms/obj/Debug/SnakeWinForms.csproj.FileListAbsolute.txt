@@ -1,0 +1,10 @@
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\obj\Debug\SnakeWinForms.MainForm.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\obj\Debug\SnakeWinForms.Properties.Resources.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\obj\Debug\SnakeWinForms.csproj.GenerateResource.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\obj\Debug\SnakeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\bin\Debug\SnakeWinForms.exe.config
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\bin\Debug\SnakeWinForms.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\bin\Debug\SnakeWinForms.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\obj\Debug\SnakeWinForms.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\obj\Debug\SnakeWinForms.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\SnakeWinForms\SnakeWinForms\obj\Debug\SnakeWinForms.csproj.AssemblyReference.cache

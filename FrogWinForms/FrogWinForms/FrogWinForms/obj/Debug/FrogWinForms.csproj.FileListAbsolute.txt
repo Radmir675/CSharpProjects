@@ -1,0 +1,10 @@
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\bin\Debug\FrogWinForms.exe.config
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\bin\Debug\FrogWinForms.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\bin\Debug\FrogWinForms.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\obj\Debug\FrogWinForms.FrogForm.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\obj\Debug\FrogWinForms.Properties.Resources.resources
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\obj\Debug\FrogWinForms.csproj.GenerateResource.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\obj\Debug\FrogWinForms.csproj.CoreCompileInputs.cache
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\obj\Debug\FrogWinForms.exe
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\obj\Debug\FrogWinForms.pdb
+C:\Users\tembr\source\repos\OnlineCourse10Stream\FrogWinForms\FrogWinForms\FrogWinForms\obj\Debug\FrogWinForms.csproj.AssemblyReference.cache
